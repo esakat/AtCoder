@@ -1,13 +1,11 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main() {
     int a, b, c;
-    string s
+    string s;
     cin >> a >> b >> c >> s;
-
-    int a, b, c, d, e, ans;
-
     cout << a + b + c << ' ' << s;
 
     return 0;
