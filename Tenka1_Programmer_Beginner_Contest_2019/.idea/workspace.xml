@@ -12,9 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2b79728-cde5-4e2a-9db2-c583ab7ccd66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Tenka1_Programmer_Beginner_Contest_2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AtCoder_Beginners_Selection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AtCoder_Beginners_Selection/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AtCoder_Beginners_Selection/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AtCoder_Beginners_Selection/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AtCoder_Beginners_Selection/PracticeA.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../AtCoder_Beginners_Selection/PracticeA.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,7 +67,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="219" />
-    <option name="y" value="89" />
+    <option name="y" value="85" />
     <option name="width" value="923" />
     <option name="height" value="750" />
   </component>
@@ -93,6 +92,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -130,12 +130,12 @@
       <updated>1555760909392</updated>
       <workItem from="1555760910625" duration="140000" />
       <workItem from="1555761131416" duration="8241000" />
-      <workItem from="1555828098371" duration="806000" />
+      <workItem from="1555828098371" duration="1170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9187000" />
+    <option name="totallyTimeSpent" value="9551000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,7 +148,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="219" y="89" width="923" height="750" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4969605" visible="true" weight="0.41430193" />
       <window_info id="Structure" order="1" sideWeight="0.50303954" side_tool="true" visible="true" weight="0.41430193" />
