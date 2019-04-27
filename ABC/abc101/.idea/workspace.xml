@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Project" targetName="Tenka1_Programmer_Beginner_Contest_2019" />
+      <config projectName="Project" targetName="abc101" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2b79728-cde5-4e2a-9db2-c583ab7ccd66" name="Default Changelist" comment="" />
+    <list default="true" id="81feb163-5098-4be4-a714-33f0278b0a6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../template/A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../template/A.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template/B.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../template/B.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template/C.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../template/C.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template/D.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../template/D.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AtCoder_Beginners_Selection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AtCoder_Beginners_Selection/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tenka1_Programmer_Beginner_Contest_2019/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tenka1_Programmer_Beginner_Contest_2019/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,15 +31,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/B.cpp">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -40,31 +44,29 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/A.cpp" />
         <option value="$PROJECT_DIR$/B.cpp" />
-        <option value="$PROJECT_DIR$/D.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/C.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/D.cpp" />
       </list>
     </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="219" />
-    <option name="y" value="85" />
+    <option name="x" value="264" />
+    <option name="y" value="51" />
     <option name="width" value="923" />
     <option name="height" value="750" />
   </component>
@@ -78,8 +80,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Tenka1_Programmer_Beginner_Contest_2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tenka1_Programmer_Beginner_Contest_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="abc101" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abc101" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -89,12 +91,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -109,7 +110,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Tenka1_Programmer_Beginner_Contest_2019" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="Tenka1_Programmer_Beginner_Contest_2019" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="Tenka1_Programmer_Beginner_Contest_2019">
+    <configuration name="abc101" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="abc101" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="abc101">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -120,20 +121,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e2b79728-cde5-4e2a-9db2-c583ab7ccd66" name="Default Changelist" comment="" />
-      <created>1555760909392</created>
+      <changelist id="81feb163-5098-4be4-a714-33f0278b0a6d" name="Default Changelist" comment="" />
+      <created>1556126743112</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1555760909392</updated>
-      <workItem from="1555760910625" duration="140000" />
-      <workItem from="1555761131416" duration="8241000" />
-      <workItem from="1555828098371" duration="1170000" />
-      <workItem from="1556120797952" duration="141000" />
+      <updated>1556126743112</updated>
+      <workItem from="1556126744297" duration="5302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9692000" />
+    <option name="totallyTimeSpent" value="5302000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -145,30 +143,30 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="219" y="85" width="923" height="750" extended-state="0" />
+    <frame x="264" y="51" width="923" height="750" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49544072" visible="true" weight="0.42338252" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.5045593" side_tool="true" visible="true" weight="0.42338252" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24971624" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Tail" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32978722" />
+      <window_info anchor="bottom" id="Messages" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" weight="0.32978722" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39969605" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Tail" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.41489363" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" order="12" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32826748" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Cargo" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Cargo" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,8 +175,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/A.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" lean-forward="true" selection-end-line="22" selection-end-column="1" />
+        <state>
+          <caret selection-end-line="1" selection-end-column="17" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -187,8 +185,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/D.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        <state relative-caret-position="90">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-end-line="24" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -197,8 +205,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/C.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-end-line="32" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -207,18 +215,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/B.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>

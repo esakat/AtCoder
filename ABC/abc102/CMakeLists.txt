@@ -1,0 +1,5 @@
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14")
+#add_executable(abc102 A.cpp)
+#add_executable(abc102 B.cpp)
+add_executable(abc102 C.cpp)
+#add_executable(abc102 D.cpp)
